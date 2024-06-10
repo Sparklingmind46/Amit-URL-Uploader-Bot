@@ -10,7 +10,7 @@ class Translation(object):
 
 ɢɪᴠᴇ ᴍᴇ ᴀɴʏ ʟɪɴᴋ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
 
-ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/Shareef_insaaan">𝗔𝗺𝗶𝘁</a></b>
 """
 
     TECH_VJ_HELP_TEXT = """
@@ -55,26 +55,16 @@ class Translation(object):
     
     TECH_VJ_START_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🤖 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ', url='https://t.me/amit_4626')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
-        ], [
-            InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
-        ], [
-            InlineKeyboardButton('🇮🇳 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ 💖', url='https://instagram.com/tech.vj')
+            InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help')
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🤖 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ', url='https://t.me/amit_4626')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
-        ], [
-            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home')
         ], [
             InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
         ]]
